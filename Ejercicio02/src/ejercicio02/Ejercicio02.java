@@ -19,7 +19,8 @@ public class Ejercicio02 {
         int var1 = 10;
         int var2 = 2;
         
-                
+        System.out.println(Math.pow(var1, var2));
+        System.out.println("Elaborado por Daniel Ojeda");
     }
     
     
